@@ -14,7 +14,7 @@ while(i<=n)
 {
 sum=sum+i;
 i++;
-System.out.println("Sum of natural number is:"+sum);
 }
+System.out.println("Sum of natural number is:"+sum);
 }
 }
